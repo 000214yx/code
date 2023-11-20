@@ -1,0 +1,3 @@
+Hello, the code can directly run the train file. Please note that some file paths in the code may need to be replaced and you may need to manually create some folders in advance. Thank you.
+
+In addition, because our data is mainly private data, we can only provide a small part of the data as a reference. The image format requirements are 100×100, which can be replaced with your own data set for testing. Thank you.
